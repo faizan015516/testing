@@ -1,0 +1,6 @@
+flask==3.0.3
+azure-storage-blob==12.20.0
+azure-identity==1.17.1
+pyodbc==5.1.0
+python-dotenv==1.0.1
+gunicorn==22.0.0
